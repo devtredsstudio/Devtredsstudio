@@ -1,7 +1,6 @@
-# Welcome! 
+:wave: # Welcome! 
 
-
-## I'm Carlos André!
+:pager: ## I'm Carlos André! 
 
 
 ![Devtredsstudio GitHub stats](https://github-readme-stats.vercel.app/api?username=devtredsstudio&theme=dark&show_icons=true)
@@ -30,11 +29,8 @@
 <code><img height="20" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
 
 
-- Thanks for visiting.
-- Enjoy it!! o/
+- Thanks for visiting. :blush:
 
 
-https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 

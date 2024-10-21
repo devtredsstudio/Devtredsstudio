@@ -1,6 +1,6 @@
- # Welcome! 
+ # Welcome! 👋:
 
- ## I'm Carlos André! :pager:
+ ## I'm Carlos André! 📟
 
 
 ![Devtredsstudio GitHub stats](https://github-readme-stats.vercel.app/api?username=devtredsstudio&theme=dark&show_icons=true)

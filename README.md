@@ -4,7 +4,9 @@
 
 ## I'm Carlos André!
 
-![Devtresstudio GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![devtresstudio GitHub stats](https://github-readme-stats.vercel.app/api?username=devtredsstudio_icons=true&theme=transparent) 
+
+<br>
 
 :computer: Sou Desenvlvedor Front-end!
 

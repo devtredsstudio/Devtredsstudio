@@ -12,7 +12,7 @@
 
 :books: Atualmente estou aprendedo tudo.
 
-:outbox_tray: Metas para 2025: comerçar varios projetos e me qualificar cada vez mais.
+:outbox_tray: Metas para 2025: começar varios projetos e me qualificar cada vez mais.
 
  
 
